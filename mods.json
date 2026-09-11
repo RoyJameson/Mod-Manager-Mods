@@ -266,7 +266,7 @@
     "tags": ["ui", "homepage"],
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/WeatherCard/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/WeatherCard",
-    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/WeatherCard/WeatherCard.min.js",
+    "jsUrl": "https://raw.githubusercontent.com/RoyJameson/Custom-Mods/main/WeatherCard/WeatherCard.js",
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
